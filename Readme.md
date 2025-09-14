@@ -1,9 +1,12 @@
-# Netflix Titles Analytics | SQL + Power BI
+# Netflix Movies And TVShows Analysis | SQL + Power BI
+---
+![Dashboard Overview](results/Netflix_logo.png) 
+
 ---
 
 ## 📌 Table of Contents
 - <a href="#Project-Overview">Project Overview</a>
-- <a href="#Tools-Used">Tools Usedt</a>
+- <a href="#Tools-Used">Tools Used</a>
 - <a href="#Business Questions Solved (SQL)>">Business Questions Solved (SQL)</a>
 - <a href="#Power-bI-Dashboard">Power-bI-Dashboard</a>
 - <a href="#Results-&-Conclusion">Results & Conclusion</a>
@@ -107,5 +110,6 @@ Netflix-Analytics-SQL-PowerBI/
 - Email: ashutosharekar02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ashutosh-arekar-a837a2319/
 - GitHub: https://github.com/Ashutosharekar
+
 
 ---
