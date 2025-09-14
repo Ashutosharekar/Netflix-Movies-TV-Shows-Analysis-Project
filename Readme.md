@@ -10,7 +10,6 @@
 - <a href="#Tools-Used">Tools Used</a>
 - <a href="#Business Questions Solved (SQL)>">Business Questions Solved (SQL)</a>
 - <a href="#Power-bI-Dashboard">Power-bI-Dashboard</a>
-- <a href="#Results-&-Conclusion">Results & Conclusion</a>
 - <a href="#Dashboard-Preview">Dashboard Preview</a>
 - <a href="#Project-Structure">Project Structure</a>
 - <a href="#Result-&-Conclusion">Result & Conclusion</a>
@@ -96,7 +95,7 @@ Netflix-Analytics-SQL-PowerBI/
 
 ---
 
-<h2><a class =”anchor” id=”Results-&-Conclusion></a>Results & Conclusion</h2>
+<h2><a class =”anchor” id=”Result-&-Conclusion></a>Results & Conclusion</h2>
 
 - Movies dominate the dataset compared to TV Shows.  
 - The most common rating for movies is **TV-MA**, while for TV shows it's **TV-14**.  
@@ -106,7 +105,7 @@ Netflix-Analytics-SQL-PowerBI/
 
 ---
 <h2><a class =”anchor” id=”Author-&-Contact”></a>Author & Contact</h2>
-
+This project was created as a self-learning exercise based on publicly available datasets and online tutorials. All implementation and practice work is done by me.
 - Author: Ashutosh Arekar
 - Email: ashutosharekar02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ashutosh-arekar-a837a2319/
@@ -114,4 +113,5 @@ Netflix-Analytics-SQL-PowerBI/
 
 
 ---
+
 
