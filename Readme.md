@@ -1,6 +1,7 @@
 # Netflix Movies And TVShows Analysis | SQL + Power BI
 ---
-![Dashboard Overview](results/Netflix_logo.png) 
+
+![Netflix_logo](results/Netflix_logo.png) 
 
 ---
 
@@ -113,3 +114,4 @@ Netflix-Analytics-SQL-PowerBI/
 
 
 ---
+
