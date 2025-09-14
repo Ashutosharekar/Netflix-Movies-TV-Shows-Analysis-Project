@@ -8,7 +8,7 @@
 ## 📌 Table of Contents
 - <a href="#Project-Overview">Project Overview</a>
 - <a href="#Tools-Used">Tools Used</a>
-- <a href="#SQL-Questions">SQL-Questions</a>
+- <a href="#SQL-Business-Questions">SQL Business Questions</a>
 - <a href="#Power-bi-Dashboard">Power bi Dashboard</a>
 - <a href="#Dashboard-Preview">Dashboard Preview</a>
 - <a href="#Project-Structure">Project Structure</a>
@@ -32,7 +32,7 @@ The goal was to uncover insights into content trends, ratings, release patterns,
 
 ---
 
-<h2><a class =”anchor” id=”SQL-Questions”></a>SQL-Questions</h2>
+<h2><a class =”anchor” id=”SQL-Business-Questions”></a>SQL Business Questions</h2>
 
 1. Count the number of Movies vs TV Shows  
 2. Find the most common rating for movies and TV shows  
@@ -108,12 +108,13 @@ Netflix-Analytics-SQL-PowerBI/
 <h2><a class =”anchor” id=”Author-&-Contact”></a>Author & Contact</h2>
 
 This project was created as a self-learning exercise based on publicly available datasets and online tutorials. All implementation and practice work is done by me.
-- Author: Ashutosh Arekar
+- Project by: Ashutosh Arekar
 - Email: ashutosharekar02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ashutosh-arekar-a837a2319/
 - GitHub: https://github.com/Ashutosharekar
 
 ---
+
 
 
 
