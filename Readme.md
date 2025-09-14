@@ -95,7 +95,7 @@ Netflix-Analytics-SQL-PowerBI/
 
 ---
 
-<h2><a class =”anchor” id=”Result-&-Conclusion></a>Results & Conclusion</h2>
+<h2><a class =”anchor” id=”Result-&-Conclusion></a>Result & Conclusion</h2>
 
 - Movies dominate the dataset compared to TV Shows.  
 - The most common rating for movies is **TV-MA**, while for TV shows it's **TV-14**.  
@@ -113,5 +113,6 @@ This project was created as a self-learning exercise based on publicly available
 
 
 ---
+
 
 
