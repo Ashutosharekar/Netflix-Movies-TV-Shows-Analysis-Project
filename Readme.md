@@ -87,8 +87,7 @@ Netflix-Analytics-SQL-PowerBI/
 │
 ├── results/
 │   ├── dashboard_screenshot.png   # Screenshot of Power BI dashboard
-│   └── insights_summary.pdf       # Optional: write summary of findings
-│
+│   
 ├── README.md
 
 
@@ -114,6 +113,7 @@ This project was created as a self-learning exercise based on publicly available
 - GitHub: https://github.com/Ashutosharekar
 
 ---
+
 
 
 
