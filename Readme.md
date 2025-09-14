@@ -8,7 +8,7 @@
 ## 📌 Table of Contents
 - <a href="#Project-Overview">Project Overview</a>
 - <a href="#Tools-Used">Tools Used</a>
-- <a href="#Business-Questions-Solved-(SQL)">Business Questions Solved (SQL)</a>
+- <a href="#SQL-Questions">SQL-Questions</a>
 - <a href="#Power-bi-Dashboard">Power bi Dashboard</a>
 - <a href="#Dashboard-Preview">Dashboard Preview</a>
 - <a href="#Project-Structure">Project Structure</a>
@@ -31,7 +31,8 @@ The goal was to uncover insights into content trends, ratings, release patterns,
 - Excel (basic cleaning)  
 
 ---
-<h2><a class =”anchor” id=”Business-Questions-Solved-(SQL)></a>Business Questions Solved Using SQL</h2>
+
+<h2><a class =”anchor” id=”SQL-Questions”></a>SQL-Questions</h2>
 
 1. Count the number of Movies vs TV Shows  
 2. Find the most common rating for movies and TV shows  
@@ -113,6 +114,7 @@ This project was created as a self-learning exercise based on publicly available
 - GitHub: https://github.com/Ashutosharekar
 
 ---
+
 
 
 
